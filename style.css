@@ -165,7 +165,7 @@ span{
 
 }
 .box:hover{
-cursor:pointer;
+    cursor: pointer;
 }
 .boximg{
     height: 300px;
