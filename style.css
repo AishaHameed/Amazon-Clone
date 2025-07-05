@@ -164,6 +164,9 @@ span{
     margin-top: 1rem;
 
 }
+.box:hover{
+cursor:pointer;
+}
 .boximg{
     height: 300px;
     background-size: cover;
